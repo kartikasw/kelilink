@@ -1,0 +1,3 @@
+[submodule "kelilink-seller"]
+	path = kelilink-seller
+	url = https://github.com/kartikasw/kelilink-seller.git
