@@ -7,3 +7,5 @@ Both applications are developed using the same tech stack:
 - Dependency injection using Hilt-Dagger
 - Maps SDK
 - MVVM with clean architecture
+
+Link to the prototypes: [kelilink prototypes][https://www.figma.com/file/eEU6Y4Lco4Tgb4zvR6epEM/Kelilink?type=design&t=G0KC7KXRsQUhu6wS-6].
